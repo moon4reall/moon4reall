@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Moon</h1>
-<h3 align="center">Exploring the Universe of Code 🌙</h3>
+# 💫 About Me:
+🔭 I’m currently working on Project NV<br>🌱 I’m currently learning Lua , js , py<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moon4reall&label=Profile%20views&color=0e75b6&style=flat" alt="moon4reall" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moon4reall" alt="moon4reall" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moon4reall) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moon4reall) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moon4reall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moon4reall) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmoon4reall@gmail.com) 
 
-- 🔭 I’m currently working on **Project NV**
+# 💻 Tech Stack:
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=moon4reall&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=moon4reall&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moon4reall&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Lua , js , py**
 
-- 📫 How to reach me **itsmoon4reall@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=moon4reall&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moon4reall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moon4reall" height="30" width="40" /></a>
-<a href="https://instagram.com/moon4reall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moon4reall" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/moon4reall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moon4reall" height="30" width="40" /></a>
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/moon4reall) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/moon4reall) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moon4reall&show_icons=true&locale=en" alt="moon4reall" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
