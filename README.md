@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project NV<br>🌱 I’m currently learning Lua , js , py<br>
+🔭 Im Just a guy who likes doing random things #43B
 
 
 ## 🌐 Socials:
